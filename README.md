@@ -1,6 +1,6 @@
 # cybersecurity-risk-assessment
 
-Objective
+**Objective**
 
 The objective of this project is to perform a basic cybersecurity risk assessment for a fictional small healthcare organization.
 
