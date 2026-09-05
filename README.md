@@ -134,14 +134,15 @@ Users may have more permissions than required to perform their jobs, increasing 
 
 Risk was evaluated by considering the likelihood of a threat occurring and its potential impact on the organization.
 
-**Risk Rating**
+### Risk Rating
 
-Likelihood| Impact| Risk Level
-Low| Low| Low
-Low| Medium| Low
-Medium| Medium| Medium
-Medium| High| High
-High| High| Critical
+| Likelihood | Impact | Risk Level |
+|---|---|---|
+| Low | Low | Low |
+| Low | Medium | Low |
+| Medium | Medium | Medium |
+| Medium | High | High |
+| High | High | Critical |
 
 **Identified Risks**
 
@@ -276,21 +277,22 @@ Recommended Controls:
 
 ---
 
-**Security Controls**
+# Security Controls
 
 The following controls are recommended to reduce the identified risks.
 
-Control| Purpose
-Multi-Factor Authentication| Reduce account compromise
-Strong password policy| Improve credential security
-Network segmentation| Limit lateral movement
-Regular patching| Reduce exploitable vulnerabilities
-Endpoint protection| Detect and prevent malware
-Least privilege| Reduce unauthorized access
-Regular backups| Support recovery from ransomware
-Security awareness training| Reduce phishing success
-Access reviews| Identify excessive permissions
-Logging and monitoring| Detect suspicious activity
+| Control | Purpose |
+|---|---|
+| Multi-Factor Authentication | Reduce account compromise |
+| Strong password policy | Improve credential security |
+| Network segmentation | Limit lateral movement |
+| Regular patching | Reduce exploitable vulnerabilities |
+| Endpoint protection | Detect and prevent malware |
+| Least privilege | Reduce unauthorized access |
+| Regular backups | Support recovery from ransomware |
+| Security awareness training | Reduce phishing success |
+| Access reviews | Identify excessive permissions |
+| Logging and monitoring | Detect suspicious activity |
 
 ---
 
