@@ -18,7 +18,7 @@ This project demonstrates practical understanding of:
 
 ---
 
-Organization Overview
+**Organization Overview**
 
 Organization: GreenCare Community Hospital
 
@@ -26,7 +26,7 @@ GreenCare Community Hospital is a fictional small healthcare organization provid
 
 The organization has approximately 35 employees, including doctors, nurses, administrative staff, laboratory personnel, pharmacists, and IT support staff.
 
-IT Environment
+**IT Environment**
 
 The hospital's technology environment includes:
 
@@ -42,7 +42,7 @@ The hospital's technology environment includes:
 - Administrative systems
 - Medical and patient information
 
-Sensitive Information
+**Sensitive Information**
 
 The organization handles sensitive information including:
 
@@ -58,7 +58,7 @@ Because the organization processes sensitive healthcare information, protecting 
 
 ---
 
-Assets
+**Assets**
 
 The following assets were identified during the assessment.
 
@@ -71,13 +71,13 @@ Public website| Medium| Represents the organization publicly and may be targeted
 File-sharing system| High| Stores internal documents and records
 Network infrastructure| High| Supports connectivity between systems
 
-Asset Prioritization
+**Asset Prioritization**
 
 The patient database is considered the most critical asset because unauthorized disclosure, modification, or loss of patient information could have serious consequences for patients and the organization.
 
 ---
 
-Threats
+**Threats**
 
 The following threats were identified:
 
@@ -103,7 +103,7 @@ A malicious or compromised employee account could be used to access, modify, or 
 
 ---
 
-Vulnerabilities
+**Vulnerabilities**
 
 The assessment identified the following potential vulnerabilities.
 
@@ -129,11 +129,11 @@ Users may have more permissions than required to perform their jobs, increasing 
 
 ---
 
-Risk Assessment
+**Risk Assessment**
 
 Risk was evaluated by considering the likelihood of a threat occurring and its potential impact on the organization.
 
-Risk Rating
+**Risk Rating**
 
 Likelihood| Impact| Risk Level
 Low| Low| Low
@@ -142,9 +142,9 @@ Medium| Medium| Medium
 Medium| High| High
 High| High| Critical
 
-Identified Risks
+**Identified Risks**
 
-Risk 1 — Credential Theft
+**Risk 1** — Credential Theft
 
 Threat: Phishing / credential theft
 
@@ -170,7 +170,7 @@ Recommended Controls:
 
 ---
 
-Risk 2 — Ransomware Infection
+**Risk 2** — Ransomware Infection
 
 Threat: Ransomware
 
@@ -197,7 +197,7 @@ Recommended Controls:
 
 ---
 
-Risk 3 — Unauthorized Network Access
+**Risk 3** — Unauthorized Network Access
 
 Threat: Network-based attack
 
@@ -223,7 +223,7 @@ Recommended Controls:
 
 ---
 
-Risk 4 — Unauthorized Access to Patient Data
+**Risk 4** — Unauthorized Access to Patient Data
 
 Threat: Insider threat / compromised account
 
@@ -249,7 +249,7 @@ Recommended Controls:
 
 ---
 
-Risk 5 — Exploitation of Unpatched Systems
+**Risk 5** — Exploitation of Unpatched Systems
 
 Threat: Exploitation of known software vulnerabilities
 
@@ -275,7 +275,7 @@ Recommended Controls:
 
 ---
 
-Security Controls
+**Security Controls**
 
 The following controls are recommended to reduce the identified risks.
 
@@ -293,11 +293,11 @@ Logging and monitoring| Detect suspicious activity
 
 ---
 
-Recommendations
+**Recommendations**
 
 Based on the assessment, GreenCare Community Hospital should prioritize the following actions.
 
-Priority 1 — Implement MFA
+**Priority 1** — Implement MFA
 
 Enable MFA for:
 
@@ -306,13 +306,13 @@ Enable MFA for:
 - Remote access
 - Critical applications
 
-Priority 2 — Improve Patch Management
+**Priority 2** — Improve Patch Management
 
 Establish a documented process for identifying, testing, and deploying security updates.
 
 Critical vulnerabilities should receive priority treatment.
 
-Priority 3 — Implement Network Segmentation
+**Priority 3** — Implement Network Segmentation
 
 Separate:
 
@@ -324,17 +324,17 @@ Separate:
 
 This can reduce the ability of attackers to move between systems after an initial compromise.
 
-Priority 4 — Strengthen Access Control
+**Priority 4** — Strengthen Access Control
 
 Implement least privilege and role-based access control.
 
 Users should only have access to the information and systems necessary for their responsibilities.
 
-Priority 5 — Establish Secure Backups
+**Priority 5** — Establish Secure Backups
 
 Maintain regular backups of critical data and ensure that backups are protected from unauthorized access and ransomware.
 
-Priority 6 — Security Awareness Training
+**Priority 6** — Security Awareness Training
 
 Provide regular training covering:
 
@@ -345,7 +345,7 @@ Provide regular training covering:
 - Safe browsing
 - Reporting suspicious activity
 
-Priority 7 — Logging and Monitoring
+**Priority 7** — Logging and Monitoring
 
 Centralize and review security logs where possible.
 
@@ -359,7 +359,7 @@ Important events to monitor include:
 
 ---
 
-Key Findings
+**Key Findings**
 
 The assessment identified several areas that could significantly increase cybersecurity risk.
 
@@ -376,7 +376,7 @@ The assessment indicates that identity security, patch management, network segme
 
 ---
 
-Lessons Learned
+**Lessons Learned**
 
 This assessment demonstrated that cybersecurity risk is not determined by a vulnerability alone.
 
@@ -402,7 +402,7 @@ This approach provides a structured way to understand and prioritize cybersecuri
 
 ---
 
-Limitations
+**Limitations**
 
 This assessment is based on a fictional organization and does not represent an actual security assessment of a real hospital.
 
@@ -421,7 +421,7 @@ The risks and controls presented are therefore theoretical and intended for educ
 
 ---
 
-References
+**References**
 
 - NIST Cybersecurity Framework
 - NIST Risk Management Framework
@@ -432,7 +432,7 @@ References
 
 ---
 
-Project Status
+**Project Status**
 
 Completed — Cybersecurity Fundamentals / Risk Assessment
 
