@@ -58,18 +58,19 @@ Because the organization processes sensitive healthcare information, protecting 
 
 ---
 
-**Assets**
+# Assets
 
 The following assets were identified during the assessment.
 
-Asset| Importance| Security Concern
-Patient database| Critical| Contains sensitive patient information
-Staff computers| High| Used to access hospital systems and email
-Email system| High| May contain sensitive communications and credentials
-Hospital Wi-Fi| High| Provides network access to staff devices
-Public website| Medium| Represents the organization publicly and may be targeted
-File-sharing system| High| Stores internal documents and records
-Network infrastructure| High| Supports connectivity between systems
+| Asset | Importance | Security Concern |
+|---|---|---|
+| Patient database | Critical | Contains sensitive patient information |
+| Staff computers | High | Used to access hospital systems and email |
+| Email system | High | May contain sensitive communications |
+| Hospital Wi-Fi | High | Provides network access to staff devices |
+| Public website | Medium | Public-facing system that may be targeted |
+| File-sharing system | High | Stores internal documents and records |
+| Network infrastructure | High | Supports connectivity between systems |
 
 **Asset Prioritization**
 
