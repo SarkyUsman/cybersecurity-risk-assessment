@@ -1,107 +1,114 @@
-# Cybersecurity Risk Assessment Documentation
+Cybersecurity Risk Assessment Report
 
-## Document Information
+1. Executive Summary
 
-| Field | Details |
-|---|---|
-| Document Title | Cybersecurity Risk Assessment |
-| Author | Usman Isah Sarki|
-| Date Created | September 6, 2026 |
-| Project Type | Cybersecurity Portfolio Project |
-| Organization | GreenCare Community Hospital (Fictional) |
-| Assessment Status | Completed |
-| Version | 1.0 |
+This project presents a cybersecurity risk assessment conducted for GreenCare Community Hospital, a fictional small healthcare organization with approximately 35 employees.
 
-## 1. Introduction
+The assessment focuses on identifying important organizational assets, potential threats, security vulnerabilities, associated risks, and appropriate security controls.
 
-This document provides the detailed risk assessment methodology used for the fictional GreenCare Community Hospital.
+The assessment identified several high-priority risks involving credential compromise, ransomware, unauthorized network access, excessive privileges, and exploitation of unpatched systems.
 
-The assessment focuses on identifying important organizational assets, realistic cybersecurity threats, existing vulnerabilities, potential risks, and appropriate security controls.
-
-The assessment follows a simplified risk-analysis approach:
-
-**Asset → Threat → Vulnerability → Risk → Control**
+The purpose of the assessment is to demonstrate a practical understanding of cybersecurity risk identification, analysis, prioritization, and treatment.
 
 ---
 
-## 2. Organization Profile
+2. Organization Overview
 
-GreenCare Community Hospital is a fictional healthcare organization with approximately 35 employees.
+GreenCare Community Hospital is a fictional healthcare organization providing basic medical services to members of its local community.
 
-The organization uses computers, wireless networking, internet connectivity, email, databases, file-sharing systems, and a public website to support its daily operations.
+The organization has approximately 35 employees and relies on technology for:
 
-Because the organization processes sensitive patient information, confidentiality, integrity, and availability are important security objectives.
+- patient record management
+- staff communication
+- email
+- internet access
+- internal file sharing
+- website services
+- wireless connectivity
+- administrative operations
 
----
-
-## 3. Asset Identification
-
-### Asset 1 — Patient Database
-
-**Classification:** Critical
-
-The patient database contains sensitive medical and personal information.
-
-**Security objectives:**
-
-- Confidentiality
-- Integrity
-- Availability
-
-**Potential consequences of compromise:**
-
-- Privacy violations
-- Data theft
-- Unauthorized modification
-- Operational disruption
-- Reputational damage
+The organization handles sensitive information, making confidentiality, integrity, and availability important security requirements.
 
 ---
 
-### Asset 2 — Staff Computers
+3. Assessment Objectives
 
-**Classification:** High
+The objectives of this assessment are to:
 
-Staff computers provide access to email, hospital systems, files, and other organizational resources.
-
-Compromising one workstation could provide an attacker with an initial foothold inside the organization.
-
----
-
-### Asset 3 — Email System
-
-**Classification:** High
-
-Email is used for internal and external communication.
-
-Compromised email accounts could be used for:
-
-- Phishing
-- Business email compromise
-- Credential theft
-- Malware distribution
-- Unauthorized access to sensitive communications
+1. identify critical organizational assets
+2. identify relevant cybersecurity threats
+3. identify potential vulnerabilities
+4. evaluate cybersecurity risks
+5. prioritize identified risks
+6. recommend appropriate security controls
+7. develop a practical remediation plan
 
 ---
 
-### Asset 4 — Wi-Fi Network
+4. Assessment Scope
 
-**Classification:** High
+The assessment covers:
 
-The wireless network provides connectivity for staff devices.
+- patient information systems
+- employee computers
+- email systems
+- wireless networks
+- public-facing website
+- internal file-sharing systems
+- network infrastructure
+- user accounts and access privileges
 
-Weak authentication, poor configuration, or inadequate segmentation could expose internal systems to unauthorized access.
+This is a fictional assessment and does not involve testing or accessing any real organization's systems.
 
 ---
 
-### Asset 5 — Public Website
+5. Overall Findings
 
-**Classification:** Medium
+The assessment identified five major risks requiring attention:
 
-The website provides information about the hospital and serves as a public-facing entry point.
+Risk ID| Risk| Severity
+R-01| Credential theft through phishing and lack of MFA| Critical
+R-02| Ransomware affecting patient information systems| High
+R-03| Unauthorized network access due to poor segmentation| High
+R-04| Unauthorized patient data access due to excessive privileges| High
+R-05| Exploitation of unpatched systems| High
 
-A compromised website could result in:
+The most important security improvements are:
 
+- implementing multi-factor authentication
+- improving password security
+- establishing a patch management process
+- implementing network segmentation
+- applying least-privilege access
+- maintaining secure backups
+- improving security awareness
+- implementing appropriate logging and monitoring
+
+---
+
+6. Risk Assessment Approach
+
+The assessment follows a basic risk analysis process:
+
+Asset → Threat → Vulnerability → Risk → Control → Remediation
+
+Each identified risk was evaluated using:
+
+- likelihood of occurrence
+- potential impact
+- overall risk severity
+
+The assessment uses qualitative risk ratings rather than financial risk calculations.
+
+---
+
+7. Conclusion
+
+GreenCare Community Hospital has several cybersecurity risks that could significantly affect its operations and sensitive information if left untreated.
+
+The assessment demonstrates that cybersecurity risk management is not only about identifying technical vulnerabilities. It also requires understanding assets, threats, business impact, access control, security processes, and appropriate risk treatment.
+
+The recommended controls provide a practical starting point for reducing the organization's overall cybersecurity exposure.
 - Defacement
 - Malware distribution
 - Reputational damage
