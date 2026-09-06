@@ -47,7 +47,7 @@ The purpose is to demonstrate how organizational assets could be logically separ
       │ Employees  │ │ Information  │
       └────────────┘ └──────────────┘
 
-## Network Segments
+Network Segments
 
 | Segment | Purpose | Example Assets | Security Consideration |
 |---|---|---|---|
@@ -57,7 +57,7 @@ The purpose is to demonstrate how organizational assets could be logically separ
 | Staff Wi-Fi | Wireless access for employees | Authorized staff devices | Strong authentication and encryption |
 | Guest Network | Internet access for visitors | Guest devices | Isolated from internal systems |
 
-## Security Controls
+Security Controls
 
 | Control | Purpose |
 |---|---|
