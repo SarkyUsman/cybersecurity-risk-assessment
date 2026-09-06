@@ -1,5 +1,19 @@
 # Cybersecurity Risk Assessment Documentation
 
+# Cybersecurity Risk Assessment Documentation
+
+## Document Information
+
+| Field | Details |
+|---|---|
+| Document Title | Cybersecurity Risk Assessment |
+| Author | Sarky Usman |
+| Date Created | September 6, 2026 |
+| Project Type | Cybersecurity Portfolio Project |
+| Organization | GreenCare Community Hospital (Fictional) |
+| Assessment Status | Completed |
+| Version | 1.0 |
+
 ## 1. Introduction
 
 This document provides the detailed risk assessment methodology used for the fictional GreenCare Community Hospital.
