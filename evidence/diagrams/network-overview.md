@@ -49,24 +49,26 @@ The purpose is to demonstrate how organizational assets could be logically separ
 
 Network Segments
 
-Segment| Purpose| Example Assets| Security Consideration
-Internet| External connectivity| Public website, external services| Firewall and traffic filtering
-Staff Network| Normal employee operations| Staff computers, email access| Authentication and endpoint protection
-Server/Data Network| Hosts critical systems| Patient database, file-sharing system| Restricted access and monitoring
-Staff Wi-Fi| Wireless access for employees| Authorized staff devices| Strong authentication and encryption
-Guest Network| Internet access for visitors| Guest devices| Isolated from internal systems
+| Segment | Purpose | Example Assets | Security Consideration |
+|---|---|---|---|
+| Internet | External connectivity | Public website, external services | Firewall and traffic filtering |
+| Staff Network | Normal employee operations | Staff computers, email access | Authentication and endpoint protection |
+| Server/Data Network | Hosts critical systems | Patient database, file-sharing system | Restricted access and monitoring |
+| Staff Wi-Fi | Wireless access for employees | Authorized staff devices | Strong authentication and encryption |
+| Guest Network | Internet access for visitors | Guest devices | Isolated from internal systems |
 
 Security Controls
 
-Control| Purpose
-Firewall| Controls traffic between networks and the internet
-Network Segmentation| Separates systems according to their security requirements
-Access Controls| Restricts users and devices to authorized resources
-MFA| Provides additional protection for user accounts
-Endpoint Protection| Helps detect and prevent malicious activity
-Logging and Monitoring| Supports detection and investigation
-Secure Wi-Fi Configuration| Reduces unauthorized wireless access
-Least Privilege| Limits access to only what users require
+| Control | Purpose |
+|---|---|
+| Firewall | Controls traffic between networks and the internet |
+| Network Segmentation | Separates systems according to their security requirements |
+| Access Controls | Restricts users and devices to authorized resources |
+| MFA | Provides additional protection for user accounts |
+| Endpoint Protection | Helps detect and prevent malicious activity |
+| Logging and Monitoring | Supports detection and investigation |
+| Secure Wi-Fi Configuration | Reduces unauthorized wireless access |
+| Least Privilege | Limits access to only what users require |
 
 Relationship to Risk R-03
 
