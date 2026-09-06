@@ -69,7 +69,6 @@ Security Controls
 | Logging and Monitoring | Supports detection and investigation |
 | Secure Wi-Fi Configuration | Reduces unauthorized wireless access |
 | Least Privilege | Limits access to only what users require |
-
 Relationship to Risk R-03
 
 The assessment identified the following risk chain:
