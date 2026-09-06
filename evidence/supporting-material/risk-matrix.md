@@ -132,7 +132,3 @@ evidence/
 │   └── README.md
 └── supporting-material/
     └── risk-matrix.md
-
-Done: "risk-matrix.md" ✅
-
-Next: "evidence/supporting-material/assessment-notes.md" — the final supporting artifact.
