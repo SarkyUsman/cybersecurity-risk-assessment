@@ -66,12 +66,13 @@ This is a fictional assessment and does not involve testing or accessing any rea
 
 The assessment identified five major risks requiring attention:
 
-Risk ID| Risk| Severity
-R-01| Credential theft through phishing and lack of MFA| Critical
-R-02| Ransomware affecting patient information systems| High
-R-03| Unauthorized network access due to poor segmentation| High
-R-04| Unauthorized patient data access due to excessive privileges| High
-R-05| Exploitation of unpatched systems| High
+| Risk ID | Risk | Severity |
+|---|---|---|
+| R-01 | Credential theft through phishing and lack of MFA | Critical |
+| R-02 | Ransomware affecting patient information systems | High |
+| R-03 | Unauthorized network access due to poor network segmentation | High |
+| R-04 | Unauthorized patient data access due to excessive privileges | High |
+| R-05 | Exploitation of unpatched systems | High |
 
 The most important security improvements are:
 
