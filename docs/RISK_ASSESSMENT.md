@@ -1,13 +1,11 @@
 # Cybersecurity Risk Assessment Documentation
 
-# Cybersecurity Risk Assessment Documentation
-
 ## Document Information
 
 | Field | Details |
 |---|---|
 | Document Title | Cybersecurity Risk Assessment |
-| Author | Sarky Usman |
+| Author | Usman Isah Sarki|
 | Date Created | September 6, 2026 |
 | Project Type | Cybersecurity Portfolio Project |
 | Organization | GreenCare Community Hospital (Fictional) |
