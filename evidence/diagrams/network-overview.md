@@ -47,7 +47,7 @@ The purpose is to demonstrate how organizational assets could be logically separ
       │ Employees  │ │ Information  │
       └────────────┘ └──────────────┘
 
-Network Segments
+## Network Segments
 
 | Segment | Purpose | Example Assets | Security Consideration |
 |---|---|---|---|
@@ -57,7 +57,7 @@ Network Segments
 | Staff Wi-Fi | Wireless access for employees | Authorized staff devices | Strong authentication and encryption |
 | Guest Network | Internet access for visitors | Guest devices | Isolated from internal systems |
 
-Security Controls
+## Security Controls
 
 | Control | Purpose |
 |---|---|
@@ -69,6 +69,7 @@ Security Controls
 | Logging and Monitoring | Supports detection and investigation |
 | Secure Wi-Fi Configuration | Reduces unauthorized wireless access |
 | Least Privilege | Limits access to only what users require |
+
 Relationship to Risk R-03
 
 The assessment identified the following risk chain:
