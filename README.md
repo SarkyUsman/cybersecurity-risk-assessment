@@ -11,7 +11,7 @@ A practical cybersecurity risk assessment of a fictional healthcare organization
 • Recommend appropriate security controls and risk treatments.
 • Develop a prioritized remediation approach.
 
-Methodology
+# Methodology
 
 The assessment uses a structured risk-analysis approach informed by NIST SP 800-30 and the NIST Cybersecurity Framework (CSF) 2.0.
 **Risk Score = Likelihood × Impact**
