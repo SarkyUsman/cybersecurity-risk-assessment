@@ -4,7 +4,7 @@ A practical cybersecurity risk assessment of a fictional healthcare organization
 
 **Educational Project:** GreenCare Community Hospital is fictional. This project is created for cybersecurity learning and portfolio demonstration purposes.
 
-Objectives
+# Objectives
 
 • Identify critical assets, threats, vulnerabilities, and security gaps.
 • Assess likelihood, impact, and overall cybersecurity risk.
