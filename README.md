@@ -16,14 +16,14 @@ A practical cybersecurity risk assessment of a fictional healthcare organization
 The assessment uses a structured risk-analysis approach informed by NIST SP 800-30 and the NIST Cybersecurity Framework (CSF) 2.0.
 **Risk Score = Likelihood × Impact**
 
-Documentation
+# Documentation
 
 Detailed assessment materials are available in the [`docs/`](docs/) directory, including the risk assessment report, asset inventory, threat assessment, risk register, security controls, and remediation plan.
 
-Evidence
+# Evidence
 
 Supporting diagrams and simulated assessment artifacts are available in [`evidence/`](evidence/).
 
-Disclaimer
+# Disclaimer
 
 This is a fictional educational project. No real organization, system, network, patient record, credential, or production environment was assessed or accessed.
